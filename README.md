@@ -1,1 +1,0 @@
-This site is built using Hugo. The original author is accredited and the original repo can be found here [Link](https://github.com/wowchemy/starter-academic)
