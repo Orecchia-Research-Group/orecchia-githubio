@@ -5,9 +5,9 @@
     <link>https://orecchia-research-group.github.io/orecchia-githubio/</link>
       <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/index.xml" rel="self" type="application/rss+xml" />
     <description>Orecchia Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Lorenzo Research Group.</copyright>
     <image>
-      <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_512x512_fill_lanczos_center_2.png</url>
       <title>Orecchia Research Group</title>
       <link>https://orecchia-research-group.github.io/orecchia-githubio/</link>
     </image>
@@ -50,6 +50,14 @@
       <link>https://orecchia-research-group.github.io/orecchia-githubio/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://orecchia-research-group.github.io/orecchia-githubio/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publication/</guid>
       <description></description>
     </item>
     

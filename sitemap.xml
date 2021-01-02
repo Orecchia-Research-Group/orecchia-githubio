@@ -13,6 +13,14 @@
   </url>
   
   <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/publication/</loc>
+  </url>
+  
+  <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/talk/a-nearly-linear-time-spectral-copy/</loc>
     <lastmod>2021-01-01T16:27:47-05:00</lastmod>
   </url>
@@ -47,8 +55,20 @@
   </url>
   
   <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/erasmo-tani/</loc>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/isabella-declue/</loc>
+  </url>
+  
+  <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/talk/iterative-methods-and-regularization/</loc>
     <lastmod>2021-01-01T14:18:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/konstantinos-ameranis/</loc>
   </url>
   
   <url>
@@ -71,11 +91,6 @@
   </url>
   
   <url>
-    <loc>https://orecchia-research-group.github.io/orecchia-githubio/publication/</loc>
-    <lastmod>2021-01-01T14:18:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/talk/random-walks-as-a-stable/</loc>
     <lastmod>2021-01-01T14:18:15-05:00</lastmod>
   </url>
@@ -86,7 +101,15 @@
   </url>
   
   <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/ruimin-zhang/</loc>
+  </url>
+  
+  <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/xifan-yu/</loc>
   </url>
   
 </urlset>
