@@ -5,7 +5,7 @@
     <link>https://orecchia-research-group.github.io/orecchia-githubio/teaching/</link>
       <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Lorenzo Research Group.</copyright><lastBuildDate>Tue, 19 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Tue, 19 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_512x512_fill_lanczos_center_2.png</url>
       <title>Teachings</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>CS 507: Introduction to Optimization in Computing and Machine Learning</title>
-      <link>https://orecchia-research-group.github.io/orecchia-githubio/teaching/a-nearly-linear-time-spectral-copy/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/teaching/cs507/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://orecchia-research-group.github.io/orecchia-githubio/teaching/a-nearly-linear-time-spectral-copy/</guid>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/teaching/cs507/</guid>
       <description></description>
     </item>
     
