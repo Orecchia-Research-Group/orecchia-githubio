@@ -5,7 +5,7 @@
     <link>https://orecchia-research-group.github.io/orecchia-githubio/</link>
       <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/index.xml" rel="self" type="application/rss+xml" />
     <description>Orecchia Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Lorenzo Research Group.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_512x512_fill_lanczos_center_2.png</url>
       <title>Orecchia Research Group</title>
@@ -19,6 +19,132 @@
       <guid>https://orecchia-research-group.github.io/orecchia-githubio/talk/user-friendly-primal-dual/</guid>
       <description>&lt;p&gt;STOC 2017 Workshop on &lt;a href=&#34;http://acm-stoc.org/stoc2017/workshops.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;User-Friendly Tools from Continuous Optimization&lt;/a&gt; on 6/23/2017
 [&lt;a href=&#34;http://cs-people.bu.edu/orecchia/files/talks/STOC2017.pptx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PPT Slides&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Acceleration with Noise-Corrupted Gradients</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-acceleration-with-noise-corrupted-gradients/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-acceleration-with-noise-corrupted-gradients/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1805.12591&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alternating Randomized Block Coordinate Descent</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/alternating-randomized-block-coordinate-descent-copy/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/alternating-randomized-block-coordinate-descent-copy/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1805.09185&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connected Subgraph Detection with Mirror Descent on SDPs</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/connected-subgraph-detection-with-mirror-descent-on-sdps/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/connected-subgraph-detection-with-mirror-descent-on-sdps/</guid>
+      <description>&lt;p&gt;With Cem Aksoylar and Venkatesh Saligrama. [Proceedings]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nearly linear-time packing and covering LP solvers</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/nearly-linear-time-packing-and-covering-lp-solvers/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/nearly-linear-time-packing-and-covering-lp-solvers/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu. In Mathematical Programming 2018. &lt;a href=&#34;https://link.springer.com/article/10.1007/s10107-018-1244-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Journal]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Approximate Duality Gap Technique: A Unified Theory of First-Order Methods</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/the-approximate-duality-gap-technique-a-unified-theory-of-first-order-methods/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/the-approximate-duality-gap-technique-a-unified-theory-of-first-order-methods/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1712.02485&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Packing and Covering LPs in Õ(1ε2) Distributed Iterations with a Single Algorithm and Simpler Analysis</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/solving-packing-and-covering-lps-in-o1%CE%B52/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/solving-packing-and-covering-lps-in-o1%CE%B52/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1710.09002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Packing and Covering LPs in Õ(1ε2) Distributed Iterations with a Single Algorithm and Simpler Analysis</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/solving-packing-and-covering-lps-in-o1%CE%B52/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/solving-packing-and-covering-lps-in-o1%CE%B52/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1710.09002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerated Extra-Gradient Descent: A Novel Accelerated First-Order Method</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/accelerated-extra-gradient-descent-a-novel-accelerated-first-order-method/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/accelerated-extra-gradient-descent-a-novel-accelerated-first-order-method/</guid>
+      <description>&lt;p&gt;With Jelena Diakonikolas &lt;a href=&#34;https://arxiv.org/abs/1706.04680&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expanders Using Local Edge Flips</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/expanders-using-local-edge-flips/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/expanders-using-local-edge-flips/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu, Aditya Bhaskara, Silvio Lattanzi and Vahab Mirrokni. SODA’16: Proc. Symp. Discrete Algorithms, pp. 1-15, 2016. &lt;a href=&#34;http://arxiv.org/abs/1510.07768&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Optimization to Obtain a Width-Independent, Parallel, Simpler, and Faster Positive SDP Solver</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/using-optimization-to-obtain-a-width-independent-parallel-simpler-and-faster-positive-sdp-solver/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/using-optimization-to-obtain-a-width-independent-parallel-simpler-and-faster-positive-sdp-solver/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu and YinTat Lee. SODA’16: Proc. Symp. Discrete Algorithms, pp. 1824-1831, 2016. &lt;a href=&#34;http://arxiv.org/abs/1507.02259&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear-Sized Spectral Sparsification in Almost Quadratic Time and Regret Minimization Beyond Matrix Multiplicative Weight Updates</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/linear-sized-spectral-sparsification-in-almost-quadratic-time-and-regret-minimization-beyond-matrix-multiplicative-weight-updates/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/linear-sized-spectral-sparsification-in-almost-quadratic-time-and-regret-minimization-beyond-matrix-multiplicative-weight-updates/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu and Zhenyu Liao. STOC’15: Proc. Symp. Theory Computing, pp. 237-245, 2015. &lt;a href=&#34;https://arxiv.org/abs/1506.04838&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nearly-Linear Time Packing and Covering LP Solver with Faster Convergence Rate</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/nearly-linear-time-packing-and-covering-lp-solver-with-faster-convergence-rate/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/nearly-linear-time-packing-and-covering-lp-solver-with-faster-convergence-rate/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu. STOC’15: Proc. Symp. Theory Computing, pp. 229-236, 2015. &lt;a href=&#34;http://arxiv.org/abs/1411.1124&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Optimization to Break the Epsilon Barrier: A Faster and Simpler Width-Independent Algorithm for Solving Positive Linear Programs in Parallel</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/using-optimization-to-break-the-epsilon-barrier-a-faster-and-simpler-width-independent-algorithm-for-solving-positive-linear-programs-in-parallel/</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/using-optimization-to-break-the-epsilon-barrier-a-faster-and-simpler-width-independent-algorithm-for-solving-positive-linear-programs-in-parallel/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu. SODA&#39;15: Proc. Symp. Discrete Algorithms, pp.~1439-1456, 2015. &lt;a href=&#34;http://arxiv.org/abs/1407.1925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt; &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2722129.2722224&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Proceedings]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Coupling: An Ultimate Unification of Gradient and Mirror Descent</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/linear-coupling-an-ultimate-unification-of-gradient-and-mirror-descent/</link>
+      <pubDate>Sun, 06 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/linear-coupling-an-ultimate-unification-of-gradient-and-mirror-descent/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu. ICML’17. &lt;a href=&#34;https://arxiv.org/abs/1407.1537&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -53,6 +179,24 @@
     </item>
     
     <item>
+      <title>Flow-Based Algorithms for Local Graph Clustering</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/flow-based-algorithms-for-local-graph-clustering/</link>
+      <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/flow-based-algorithms-for-local-graph-clustering/</guid>
+      <description>&lt;p&gt;With Zeyuan Allen-Zhu. SODA’14: Proc. Symp. Discrete Algorithms, pp. 1267–1286, 2014. &lt;a href=&#34;http://arxiv.org/abs/1307.2855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt; &lt;a href=&#34;http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.94&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Proceedings]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Almost-Linear-Time Algorithm for Approximate Max Flow in Undirected Graphs, and its Multicommodity Generalizations</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/an-almost-linear-time-algorithm-for-approximate-max-flow-in-undirected-graphs-and-its-multicommodity-generalizations/</link>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/an-almost-linear-time-algorithm-for-approximate-max-flow-in-undirected-graphs-and-its-multicommodity-generalizations/</guid>
+      <description>&lt;p&gt;With Jonathan A. Kelner, YinTat Lee and Aaron Sidford. SODA’14: Proc. Symp. on Discrete Algorithms, pp. 217–226, 2014. &lt;em&gt;Co-winner of Best Paper Award.&lt;/em&gt; &lt;a href=&#34;http://arxiv.org/abs/1304.2338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt; &lt;a href=&#34;http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Proceedings]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Nearly-linear-time Spectral Algorithm for Balanced Graph Partitioning</title>
       <link>https://orecchia-research-group.github.io/orecchia-githubio/talk/a-nearly-linear-time-spectral-copy/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
@@ -64,10 +208,109 @@
     
     <item>
       <title>CS 507: Introduction to Optimization in Computing and Machine Learning</title>
-      <link>https://orecchia-research-group.github.io/orecchia-githubio/teaching/a-nearly-linear-time-spectral-copy/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/teaching/cs507/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://orecchia-research-group.github.io/orecchia-githubio/teaching/a-nearly-linear-time-spectral-copy/</guid>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/teaching/cs507/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple, Combinatorial Algorithm for Solving SDD Systems in Nearly-Linear Time</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</guid>
+      <description>&lt;p&gt;With Jonathan A. Kelner, Aaron Sidford and Zeyuan Allen-Zhu. STOC’13: Proc. Symp. Theory Computing, pp. 911–920, 2013. &lt;a href=&#34;http://arxiv.org/abs/1301.6628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt; &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2488724&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Proceedings]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Approximating the Exponential, the Lanczos Method and an 	ilde{O}(m)-Time Spectral Algorithm for Balanced Separator</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/approximating-the-exponential-the-lanczos-method-and-an-tildeom-time-spectral-algorithm-for-balanced-separator/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/approximating-the-exponential-the-lanczos-method-and-an-tildeom-time-spectral-algorithm-for-balanced-separator/</guid>
+      <description>&lt;p&gt;With Sushant Sachdeva and Nisheeth K. Vishnoi. STOC’12: Proc. Symp. Theory Computing, pp. 1141-1160, 2012. &lt;a href=&#34;http://arxiv.org/abs/1111.1491&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[ArXiv]&lt;/a&gt; [Conference Version] [Poster]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Compact, In Vivo Screen of All 6-mers Reveals Drivers of Tissue-Specific Expression and Guides Synthetic Regulatory Element Design.</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationbio/a-compact-in-vivo-screen-of-all-6-mers-reveals-drivers-of-tissue-specific-expression-and-guides-synthetic-regulatory-element-design./</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationbio/a-compact-in-vivo-screen-of-all-6-mers-reveals-drivers-of-tissue-specific-expression-and-guides-synthetic-regulatory-element-design./</guid>
+      <description>&lt;p&gt;With Smith RP*, Riesenfeld SJ*, Holloway AK, Li Q, Murphy KK, Feliciano NM, Oksenberg N, Pollard KS, Ahituv N (2013). Genome Biology, 2013. In press.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Spectral Algorithm with Applications to Exploring Data Graphs Locally</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/implementing-regularization-implicitly-via-approximate-eigenvector-computation/</link>
+      <pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/implementing-regularization-implicitly-via-approximate-eigenvector-computation/</guid>
+      <description>&lt;p&gt;With Michael W. Mahoney and Nisheeth K. Vishnoi. J. Machine Learning Research, 13, 2339-2365, 2012. &lt;a href=&#34;http://jmlr.csail.mit.edu/papers/volume13/mahoney12a/mahoney12a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[JMLR Article]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Approximation Algorithms for Graph Partitioning Using Spectral and Semidefinite-Programming Techniques</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/fast-approximation-algorithms-for-graph-partitioning-using-spectral-and-semidefinite-programming-techniques/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/fast-approximation-algorithms-for-graph-partitioning-using-spectral-and-semidefinite-programming-techniques/</guid>
+      <description>&lt;p&gt;UC Berkeley Dissertation, May 2011. &lt;a href=&#34;http://www.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-56.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[UC Berkeley Tech Report]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards an SDP-Based Approach to Spectral Methods: A Nearly-Linear Time Algorithm for Graph Partitioning and Decomposition</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/towards-an-sdp-based-approach-to-spectral-methods-a-nearly-linear-time-algorithm-for-graph-partitioning-and-decomposition/</link>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/towards-an-sdp-based-approach-to-spectral-methods-a-nearly-linear-time-algorithm-for-graph-partitioning-and-decomposition/</guid>
+      <description>&lt;p&gt;With Nisheeth K. Vishnoi. SODA’11: Proc. Symp. on Discrete Algorithms, pp. 532-545, 2011. &lt;a href=&#34;http://www.siam.org/proceedings/soda/2011/SODA11_042_orecchial.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Conference Version]&lt;/a&gt; [Soda Talk]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing Regularization Implicitly Via Approximate Eigenvector Computation</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</link>
+      <pubDate>Mon, 04 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</guid>
+      <description>&lt;p&gt;With Michael W. Mahoney. ICML’11: Proc. 28th Intl. Conf. Machine Learning, pp. 121-128, 2011. &lt;a href=&#34;http://www.icml-2011.org/papers/120_icmlpaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Conference Version]&lt;/a&gt; &lt;a href=&#34;http://arxiv.org/abs/1010.0703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full Version on ArXiv&lt;/a&gt; &lt;a href=&#34;http://techtalks.tv/talks/implementing-regularization-implicitly-via-approximate-eigenvector-computation/54418/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICML Talk&lt;/a&gt; [ICML Poster]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Empirical Evaluation of Graph Partitioning Using Spectral Embeddings and Flow</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/empirical-evaluation-of-graph-partitioning-using-spectral-embeddings-and-flow/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/empirical-evaluation-of-graph-partitioning-using-spectral-embeddings-and-flow/</guid>
+      <description>&lt;p&gt;With Kevin J. Lang and Michael W. Mahoney. SEA’09: Proc. Intl. Symp. Experimental Algorithms, pp. 197-208, 2009. &lt;a href=&#34;http://orecchia.scripts.mit.edu/web/files/papers/SEA2009_LangMahoneyOrecchia.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Conference Version]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Partitioning Graphs via Single Commodity Flows</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-partitioning-graphs-via-single-commodity-flows/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-partitioning-graphs-via-single-commodity-flows/</guid>
+      <description>&lt;p&gt;With Leonard Schulman, Umesh V. Vazirani, and Nisheeth K. Vishnoi. STOC’08: : Proc. Symp. Theory of Computing, pp. 461-470, 2008. [Conference Version] [STOC Talk]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On a Cut-Matching Game for the Sparsest Cut Problem</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/localized-techniques-for-broadcasting-in-wireless-sensor-networks/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/localized-techniques-for-broadcasting-in-wireless-sensor-networks/</guid>
+      <description>&lt;p&gt;With Rohit Khandekar, Subhash A. Khot, and Nisheeth K. Vishnoi. EECS Dept., UC Berkeley, Tech. Rep. UCB/EECS-2007-177, 2007. &lt;a href=&#34;http://www.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-177.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Berkeley Tech Report&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Localized Techniques for Broadcasting in Wireless Sensor Networks</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-a-cut-matching-game-for-the-sparsest-cut-problem/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationall/on-a-cut-matching-game-for-the-sparsest-cut-problem/</guid>
+      <description>&lt;p&gt;With Rohit Khandekar, Subhash A. Khot, and Nisheeth K. Vishnoi. EECS Dept., UC Berkeley, Tech. Rep. UCB/EECS-2007-177, 2007. &lt;a href=&#34;http://www.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-177.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Berkeley Tech Report&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
