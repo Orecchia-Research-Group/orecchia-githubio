@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PublicationMLs | Orecchia Research Group</title>
+    <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/</link>
+      <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/publicationml/index.xml" rel="self" type="application/rss+xml" />
+    <description>PublicationMLs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Sat, 28 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_512x512_fill_lanczos_center_2.png</url>
+      <title>PublicationMLs</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/</link>
+    </image>
+    
+    <item>
+      <title>A Spectral Algorithm with Applications to Exploring Data Graphs Locally</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/implementing-regularization-implicitly-via-approximate-eigenvector-computation/</link>
+      <pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/implementing-regularization-implicitly-via-approximate-eigenvector-computation/</guid>
+      <description>&lt;p&gt;With Michael W. Mahoney and Nisheeth K. Vishnoi. J. Machine Learning Research, 13, 2339-2365, 2012. &lt;a href=&#34;http://jmlr.csail.mit.edu/papers/volume13/mahoney12a/mahoney12a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[JMLR Article]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing Regularization Implicitly Via Approximate Eigenvector Computation</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</link>
+      <pubDate>Mon, 04 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/publicationml/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</guid>
+      <description>&lt;p&gt;With Michael W. Mahoney. ICML’11: Proc. 28th Intl. Conf. Machine Learning, pp. 121-128, 2011. &lt;a href=&#34;http://www.icml-2011.org/papers/120_icmlpaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Conference Version]&lt;/a&gt; &lt;a href=&#34;http://arxiv.org/abs/1010.0703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full Version on ArXiv&lt;/a&gt; &lt;a href=&#34;http://techtalks.tv/talks/implementing-regularization-implicitly-via-approximate-eigenvector-computation/54418/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICML Talk&lt;/a&gt; [ICML Poster]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
