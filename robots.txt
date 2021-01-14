@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://orecchia-research-group.github.io/orecchia-githubio/sitemap.xml
