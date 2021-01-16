@@ -5,11 +5,11 @@
   "theme_color": "#800000",
   "background_color": "#800000",
   "icons": [{
-    "src": "/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_192x192_fill_lanczos_center_2.png",
+    "src": "/orecchia-githubio/images/icon_hud8e2ea0aca110255bb8c119c00a5525d_31733_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/orecchia-githubio/images/icon_hu2bf82d13a2aaf613aeedcb22a1474eac_24875_512x512_fill_lanczos_center_2.png",
+    "src": "/orecchia-githubio/images/icon_hud8e2ea0aca110255bb8c119c00a5525d_31733_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
