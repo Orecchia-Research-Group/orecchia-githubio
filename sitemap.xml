@@ -3,43 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/user-friendly-primal-dual/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cmsc25460/</loc>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</loc>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/user-friendly-primal-dual/</loc>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/on-acceleration-with-noise-corrupted-gradients/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/alternating-randomized-block-coordinate-descent-copy/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/connected-subgraph-detection-with-mirror-descent-on-sdps/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/nearly-linear-time-packing-and-covering-lp-solvers/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/the-approximate-duality-gap-technique-a-unified-theory-of-first-order-methods/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
@@ -49,172 +59,167 @@
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/accelerated-extra-gradient-descent-a-novel-accelerated-first-order-method/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/expanders-using-local-edge-flips/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/using-optimization-to-obtain-a-width-independent-parallel-simpler-and-faster-positive-sdp-solver/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/linear-sized-spectral-sparsification-in-almost-quadratic-time-and-regret-minimization-beyond-matrix-multiplicative-weight-updates/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/nearly-linear-time-packing-and-covering-lp-solver-with-faster-convergence-rate/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/using-optimization-to-break-the-epsilon-barrier-a-faster-and-simpler-width-independent-algorithm-for-solving-positive-linear-programs-in-parallel/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/linear-coupling-an-ultimate-unification-of-gradient-and-mirror-descent/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/random-walks-as-a-stable/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/almost-linear-time-algorithms/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/a-simple-combinatorial-algorithm/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/flow-based-algorithms-for-local-graph-clustering/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/an-almost-linear-time-algorithm-for-approximate-max-flow-in-undirected-graphs-and-its-multicommodity-generalizations/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/a-nearly-linear-time-spectral-copy/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cs507/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/approximating-the-exponential-the-lanczos-method-and-an-tildeom-time-spectral-algorithm-for-balanced-separator/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationbio/a-compact-in-vivo-screen-of-all-6-mers-reveals-drivers-of-tissue-specific-expression-and-guides-synthetic-regulatory-element-design./</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationbio/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationml/implementing-regularization-implicitly-via-approximate-eigenvector-computation/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationml/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/fast-approximation-algorithms-for-graph-partitioning-using-spectral-and-semidefinite-programming-techniques/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/towards-an-sdp-based-approach-to-spectral-methods-a-nearly-linear-time-algorithm-for-graph-partitioning-and-decomposition/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationml/a-simple-combinatorial-algorithm-for-solving-sdd-systems-in-nearly-linear-time/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/empirical-evaluation-of-graph-partitioning-using-spectral-embeddings-and-flow/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/on-partitioning-graphs-via-single-commodity-flows/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/localized-techniques-for-broadcasting-in-wireless-sensor-networks/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/on-a-cut-matching-game-for-the-sparsest-cut-problem/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/people/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/project/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/publication/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/talk/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/antares-chen/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/authors/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
@@ -223,42 +228,42 @@
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/erasmo-tani/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/isabella-declue/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_talk/iterative-methods-and-regularization/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/konstantinos-ameranis/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/lialex-wei/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/lorenzo-orecchia/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/post/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/z_publicationall/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
@@ -267,12 +272,12 @@
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/ruimin-zhang/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/ryan-allen-robinett/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
@@ -281,17 +286,17 @@
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/xifan-yu/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/yueheng-zhang/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://orecchia-research-group.github.io/orecchia-githubio/author/zixin-ding/</loc>
-    <lastmod>2021-01-16T16:18:12-05:00</lastmod>
+    <lastmod>2021-02-26T12:33:07+02:00</lastmod>
   </url>
   
 </urlset>

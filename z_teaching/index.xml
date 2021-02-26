@@ -5,12 +5,67 @@
     <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</link>
       <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Z_teachings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Tue, 19 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hud8e2ea0aca110255bb8c119c00a5525d_31733_512x512_fill_lanczos_center_2.png</url>
       <title>Z_teachings</title>
       <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</link>
     </image>
+    
+    <item>
+      <title>CMSC 25460 1 (Spring 2021): Introduction to Optimization</title>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cmsc25460/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cmsc25460/</guid>
+      <description>&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
+&lt;p&gt;Convex optimization algorithms and their applications to efficiently solving fundamental computational problems. Intended audience is advanced undergraduate students. Topics include modeling using mathematical programs, gradient descent algorithms, linear programming, Lagrangian duality, and applications to algorithm design, machine learning and physics.&lt;/p&gt;
+&lt;h1 id=&#34;teaching-staff&#34;&gt;Teaching Staff&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.orecchia.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Orecchia&lt;/a&gt;, Instructor.
+Office Hours: &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://people.cs.uchicago.edu/~kameranis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Konstantinos Ameranis&lt;/a&gt;, Teaching Assistant
+Office Hourse: &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h1 id=&#34;class-organization&#34;&gt;Class Organization&lt;/h1&gt;
+&lt;p&gt;There will be three main means in which content will be delivered to you during the course:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Aynchronus mini-lectures:&lt;/strong&gt; The bulk of the course content will be delivered to you as pre-recorded mini-lectures, which you can watch at your own convenience within a specified time frame (usually 3-5 days after posting). Each mini-lecture will focus on a single concept and, on average, last around 20 minutes. Expect roughly three mini-lectures for each traditional 80-minute lecture block. At the end of each mini-lecture, you will be presented with a small quiz on the material covered. Answers to these quizzes will be recorded.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Synchronous Review Sessions:&lt;/strong&gt;  In the assigned lecture slots, I will hold review sessions over Zoom. The plan for these interactions is i) to quickly review the material covered in the mini-lecture, highlighting critical concepts, ii) to answer any questions about the material, and iii) to work together on a related exercise or programming activity. Attendance in these review sessions is optional. All sessions will be recorded for those who are not able to attend or choose not to. You are also encouraged to post any questions you would like to have answered in the review session on Canvas under Discussions, especially if you are not attending the session.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Synchronous Office Hours:&lt;/strong&gt; Konstantinos and I will hold Zoom office hours to answer more specific questions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;assigned-work-and-grading&#34;&gt;Assigned Work and Grading&lt;/h1&gt;
+&lt;p&gt;The final course grade will break down as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In-course quizzes/participation: 15%&lt;/li&gt;
+&lt;li&gt;Homeworks: 50%&lt;/li&gt;
+&lt;li&gt;Take-home final exam: 35%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;QUIZZES:&lt;/strong&gt; Each mini-lecture will contain a few quiz questions on its material. While the answers will be collected, the purpose of these is mostly to evaluate your participation in the class and to give you quick feedback on your level of understanding. Occasional quizzes may be released outside of mini-lectures at natural places in the course, e.g., the end of a module.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HOMEWORK:&lt;/strong&gt; Fortnightly homework assignments to be submitted via Gradescope. Discussion with other students is permitted, but solutions must be individually written.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FINAL EXAM:&lt;/strong&gt; Take-home exam. Details TBD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ATTENDANCE AND PARTICIPATION:&lt;/strong&gt; Attendance and participation in synchronous events is entirely optional. Office hours and review sessions will be recorded.&lt;/p&gt;
+&lt;h1 id=&#34;course-materials&#34;&gt;Course Materials&lt;/h1&gt;
+&lt;p&gt;You will need access to the following two textbooks for weekly readings. They are both available online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/search?q=An&amp;#43;Introduction&amp;#43;to&amp;#43;Optimization&amp;amp;oq=An&amp;#43;Introduction&amp;#43;to&amp;#43;Optimization&amp;amp;aqs=chrome..69i57j69i61j69i60l2.838j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(CZ): An Introduction to Optimization by Chong and Zak&lt;/a&gt;&lt;/br&gt; &lt;em&gt;An introductory text for undergraduates. Good for background and introductory topics.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.stanford.edu/~boyd/cvxbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(BV) Convex Optimization by Boyd and Vandenberghe&lt;/a&gt; &lt;/br&gt;&lt;em&gt;A graduate textbook with a broad coverage of advanced topics.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are other textbooks and lecture notes which you may use as references, espcesially for more advanced material:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link-springer-com.proxy.uchicago.edu/book/10.1007/978-0-387-31256-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Convex Analysis and Nonlinear Optimization: Theory and Examples By Jonathan Borwein, Adrian S. LewisLinks to an external site.&lt;/a&gt;&lt;/br&gt; &lt;em&gt;A more formal mathematical treatment of convexity.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introductory Lectures on Convex Optimization by Yurii Nesterov&lt;/a&gt;&lt;/br&gt; &lt;em&gt;A mathematical treatment of first-order methods.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See &lt;a href=&#34;https://canvas.uchicago.edu/courses/28465/pages/similar-courses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page for similar courses&lt;/a&gt; at other institutions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CS 507: Introduction to Optimization in Computing and Machine Learning</title>
