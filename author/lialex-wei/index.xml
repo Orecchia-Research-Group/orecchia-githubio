@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li(Alex) Wei | Orecchia Research Group</title>
-    <link>https://orecchia-research-group.github.io/orecchia-githubio/author/lialex-wei/</link>
-      <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/author/lialex-wei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://orecchia.net/author/lialex-wei/</link>
+      <atom:link href="https://orecchia.net/author/lialex-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Li(Alex) Wei</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright>
     <image>
-      <url>https://orecchia-research-group.github.io/orecchia-githubio/author/lialex-wei/avatar_hu143be2af96756cf6149421bdac5c2b67_46961_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://orecchia.net/author/lialex-wei/avatar_hu143be2af96756cf6149421bdac5c2b67_46961_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Li(Alex) Wei</title>
-      <link>https://orecchia-research-group.github.io/orecchia-githubio/author/lialex-wei/</link>
+      <link>https://orecchia.net/author/lialex-wei/</link>
     </image>
     
   </channel>
