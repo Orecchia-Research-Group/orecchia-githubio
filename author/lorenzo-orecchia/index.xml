@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo Orecchia | Orecchia Research Group</title>
-    <link>https://orecchia.net/author/lorenzo-orecchia/</link>
-      <atom:link href="https://orecchia.net/author/lorenzo-orecchia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://orecchia-research-group.github.io/orecchia-githubio/author/lorenzo-orecchia/</link>
+      <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/author/lorenzo-orecchia/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Orecchia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright>
     <image>
-      <url>https://orecchia.net/author/lorenzo-orecchia/avatar_hu9d146c537c0dbb04f4d51da20c71a99a_112751_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://orecchia-research-group.github.io/orecchia-githubio/author/lorenzo-orecchia/avatar_hu9d146c537c0dbb04f4d51da20c71a99a_112751_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Lorenzo Orecchia</title>
-      <link>https://orecchia.net/author/lorenzo-orecchia/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/author/lorenzo-orecchia/</link>
     </image>
     
   </channel>

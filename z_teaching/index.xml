@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z_teachings | Orecchia Research Group</title>
-    <link>https://orecchia.net/z_teaching/</link>
-      <atom:link href="https://orecchia.net/z_teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</link>
+      <atom:link href="https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Z_teachings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All Rights Reserved. Orecchia Group.</copyright><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://orecchia.net/images/icon_hud8e2ea0aca110255bb8c119c00a5525d_31733_512x512_fill_lanczos_center_2.png</url>
+      <url>https://orecchia-research-group.github.io/orecchia-githubio/images/icon_hud8e2ea0aca110255bb8c119c00a5525d_31733_512x512_fill_lanczos_center_2.png</url>
       <title>Z_teachings</title>
-      <link>https://orecchia.net/z_teaching/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/</link>
     </image>
     
     <item>
       <title>CMSC 25460 1 (Spring 2021): Introduction to Optimization</title>
-      <link>https://orecchia.net/z_teaching/cmsc25460/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cmsc25460/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://orecchia.net/z_teaching/cmsc25460/</guid>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cmsc25460/</guid>
       <description>&lt;h1 id=&#34;course-description&#34;&gt;Course Description&lt;/h1&gt;
 &lt;p&gt;Convex optimization algorithms and their applications to efficiently solving fundamental computational problems. Intended audience is advanced undergraduate students. Topics include modeling using mathematical programs, gradient descent algorithms, linear programming, Lagrangian duality, and applications to algorithm design, machine learning and physics.&lt;/p&gt;
 &lt;h1 id=&#34;teaching-staff&#34;&gt;Teaching Staff&lt;/h1&gt;
@@ -69,9 +69,9 @@ Office Hours: &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
     
     <item>
       <title>CS 507: Introduction to Optimization in Computing and Machine Learning</title>
-      <link>https://orecchia.net/z_teaching/cs507/</link>
+      <link>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cs507/</link>
       <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://orecchia.net/z_teaching/cs507/</guid>
+      <guid>https://orecchia-research-group.github.io/orecchia-githubio/z_teaching/cs507/</guid>
       <description></description>
     </item>
     
